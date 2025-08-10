@@ -1,4 +1,4 @@
-Python List Operations Assignment
+
 Description
 This Python program demonstrates basic list operations, including appending, inserting, extending, removing elements, sorting, and finding the index of a specific value.
 
