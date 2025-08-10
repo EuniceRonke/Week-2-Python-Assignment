@@ -1,8 +1,11 @@
 
 **Description**
-This Python program demonstrates basic list operations, including appending, inserting, extending, removing elements, sorting, and finding the index of a specific value.
+
+This Python program demonstrates basic list operations, including appending, inserting, extending, removing elements, sorting, 
+and finding the index of a specific value.
 
 **Steps Performed**
+
 Create an empty list called my_list.
 
 Append the values 10, 20, 30, and 40 to the list.
@@ -17,8 +20,8 @@ Sort the list in ascending order using .sort().
 
 Find the index position of the value 30 using .index() and print it.
 
-**Skills Practiced
-**
+**Skills Practiced**
+
 Creating lists
 
 Adding elements with .append() and .insert()
